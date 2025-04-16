@@ -2,7 +2,7 @@
 
 ## 🎥 Demo
 
-<img src="./assets/demo.gif" height="300"/>
+<img src="./assets/demo.gif" height="450"/>
 
 ## 📱 Overview
 
