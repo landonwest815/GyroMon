@@ -1,4 +1,8 @@
-# 🎮 GyroMon – A Gyrosphere-Based Pokémon Challenge
+# 🎮 GyroMon – A Gyrosphere-Based Pokémon Challenge  
+
+## 🎥 Demo
+
+![Gameplay GIF](./assets/demo.gif)
 
 ## 📱 Overview
 
