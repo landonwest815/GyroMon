@@ -35,10 +35,6 @@ GyroMon is an interactive Pokémon-inspired game that utilizes the gyroscope sen
 - **User Interaction:** Developed intuitive controls that respond to device orientation, improving user engagement.
 - **AI-Assisted Design:** Utilized AI tools to generate creative assets, streamlining the design process.
 
-## 🎬 Demo
-
-A demonstration of the gameplay can be found in the [demo.mp4](./demo.mp4) file within the repository.
-
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
