@@ -2,7 +2,7 @@
 
 ## 🎥 Demo
 
-![Gameplay GIF](./assets/demo.gif)
+<img src="./assets/demo.gif" height="300"/>
 
 ## 📱 Overview
 
