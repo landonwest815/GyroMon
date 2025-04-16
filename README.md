@@ -1,5 +1,9 @@
 # 🎮 GyroMon – A Gyrosphere-Based Pokémon Challenge  
 
+## 📱 Overview
+
+GyroMon is an interactive Pokémon-inspired game that utilizes the gyroscope sensor in modern smartphones. Players are challenged to catch Pokémon by maneuvering a Pokéball affected by simulated gravity, providing a unique and engaging gameplay experience.
+
 ## 🎥 Demo
 
 <img src="./assets/demo.gif" height="450"/>
@@ -9,10 +13,6 @@
 - Implement a physics-based game mechanic using device gyroscope data.
 - Only use a single Activiy with Jetpack Compose UI.
 - Enhance skills in Kotlin and Android development.
-
-## 📱 Overview
-
-GyroMon is an interactive Pokémon-inspired game that utilizes the gyroscope sensor in modern smartphones. Players are challenged to catch Pokémon by maneuvering a Pokéball affected by simulated gravity, providing a unique and engaging gameplay experience.
 
 ## 🛠️ Technologies Used
 
